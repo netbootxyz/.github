@@ -9,7 +9,8 @@
 See [netboot.xyz](https://netboot.xyz) for all documentation.  Some links to get started with are:
 
 * [Downloads](https://netboot.xyz/downloads/)
-* [Self Hosting](https://netboot.xyz/docs/selfhosting/)
 * [Booting Methods](https://netboot.xyz/docs/booting/ipxe)
+* [Docker Container](https://netboot.xyz/docs/docker)
+* [Self Hosting](https://netboot.xyz/docs/selfhosting/)
 * [FAQ](https://netboot.xyz/docs/faq)
 * [Blog](https://netboot.xyz/blog)
