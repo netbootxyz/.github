@@ -1,6 +1,10 @@
 ### What is netboot.xyz?
 
-![netboot.xyz menu](https://netboot.xyz/images/netboot.xyz.gif)
+<p align="center">
+  <a href="https://netboot.xyz">
+    <img src="https://netboot.xyz/img/boot-menu.svg" alt="netboot.xyz iPXE boot menu" width="800">
+  </a>
+</p>
 
 [netboot.xyz](http://www.netboot.xyz) is a convenient place to boot into any type of operating system or utility disk without the need of having to go spend time retrieving the ISO just to run it.  [iPXE](http://ipxe.org/) is used to provide a user friendly menu from within the BIOS that lets you easily choose the operating system you want along with any specific types of versions or bootable flags.
 
